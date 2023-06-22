@@ -14,10 +14,9 @@ export default function LittleLemonHeader() {
         textAlign: 'center',
         paddingLeft:4,
         paddingRight:4,
-        paddingBottom:45,
         fontWeight:'bold',
         justifyContent:"center",
-        paddingTop:45,
+        paddingTop:25,
         }}>Little Lemon </Text>
     </View>
   );
