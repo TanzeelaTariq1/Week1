@@ -15,7 +15,7 @@ const Welcome = () => {
 const styles = StyleSheet.create({
   logo: {
      height: 100,
-     width: 30,
+     width: 300,
           resizeMode: 'contain',
     color:'yellow',
   },
